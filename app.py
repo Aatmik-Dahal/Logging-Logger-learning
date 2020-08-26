@@ -8,3 +8,5 @@ logger.warning("This is a warning")
 logger.error("This is a error i would say")
 logger.critical("Idk this is a critical messege")
 logger.debug("This is a debug shit")
+
+#to logg in a file do filename="Example.name" in the basicConfig area with a comma 
